@@ -1,5 +1,5 @@
 | Instrument      | Note Nrs    | Note Name 1  	| Note Name 2  |
-| -------------   |------------:| ----		| ----		|
+| -------------   |------------ | ----		| ----		|
 | BASS DRUM       | 35, 36      |  B0  		|  C1		  |
 | SNARE DRUM      | 38, 40      |   D1 		|  E1 		|
 | LOW TOM         | 41, 43      |   D1 		|  E1 		|
