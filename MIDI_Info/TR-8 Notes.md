@@ -14,6 +14,7 @@
 
 For Copy Pasting into Orca
 
+```
 #| Instrument      | Note Nrs    | Note Name 1  	| Note Name 2  |#
 #| -------------   |------------ | ----		| ----		|#
 #| BASS DRUM       | 35, 36      |  B0  		|  C1		  |#
@@ -27,3 +28,4 @@ For Copy Pasting into Orca
 #| OPEN HI-HAT     | 46    	    |   D1 		|  E1 		|#
 #| CRASH CYMBAL    | 49     	    |   D1 		|  E1 		|#
 #| RIDE CYMBAL     | 51    	    |   D1 		|  E1 		|#
+```
