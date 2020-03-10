@@ -20,7 +20,7 @@ For Copy Pasting into Orca
 #| BASS DRUM       | 35, 36     |   B0  	      |  C1		        |#
 #| SNARE DRUM      | 38, 40     |   D1 		      |  E1 		      |#
 #| LOW TOM         | 41, 43     |   D1 		      |  E1 		      |#
-#| MID TOM      	 | 45, 47     |   D1 		      |  E1 		      |#
+#| MID TOM         | 45, 47     |   D1 		      |  E1 		      |#
 #| HIGH TOM        | 48, 50     |   D1 		      |  E1 		      |#
 #| RIM SHOT        | 37      	  |   D1 		      |  E1 		      |#
 #| HAND CLAP	     | 39      	  |   D1 		      |  E1 		      |#
