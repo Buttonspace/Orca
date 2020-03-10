@@ -1,12 +1,14 @@
 Test
 
-BASS DRUM	35, 36
+Instrument	Note Nr		Note Name 1		Note Name 2
 
-SNARE DRUM	38, 40
+BASS DRUM	35, 36		B0			C1
 
-LOW TOM	41, 43
+SNARE DRUM	38, 40		D1			E1
 
-MID TOM	45, 47
+LOW TOM		41, 43		
+
+MID TOM		45, 47
 
 HIGH TOM	48, 50
 
