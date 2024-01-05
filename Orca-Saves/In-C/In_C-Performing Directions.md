@@ -1,3 +1,7 @@
+# In C
+
+### Performing Directions
+
 All performers play from the same page of 53 melodic patterns played in sequence.
 
 Any number of any kind of instruments can play. A group of about 35 is desired if possible but smaller or larger groups will work. If vocalist(s) join in they can use any vowel and consonant sounds they like.
